@@ -1,0 +1,27 @@
+{
+  "name": "react_sandbox",
+  "version": "1.0.0",
+  "description": "play with all the things",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semoog/reactSandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semoog/reactSandbox/issues"
+  },
+  "homepage": "https://github.com/semoog/reactSandbox#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
