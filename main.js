@@ -1,5 +1,3 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-
-ReactDOM.render(<App />, document.getElementById('app'));
+import PropComponent from './components/PropComponent';
+import StateComponent from './components/StateComponent';
+import RefComponent from './components/RefComponent';
