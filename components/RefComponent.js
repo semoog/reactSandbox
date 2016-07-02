@@ -32,7 +32,6 @@ export default class RefComponent extends React.Component {
       {this.state.blue}
       <br />
       <ColorBlock />
-    
       </div>
     );
   }
